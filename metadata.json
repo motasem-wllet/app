@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Wallet",
+  "description": "Enterprise Digital Wallet & Financial Platform with Supabase and Sandbox mode",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
